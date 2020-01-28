@@ -961,9 +961,9 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-native@0.55.4":
-  version "0.55.4"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.55.4.tgz#866005d86490e2fd60543b143b2a5ac208aa925b"
+"@types/react-native@0.61.5":
+  version "0.61.5"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.61.5.tgz#5890c780c8f999483b6063c2a3038eccea1a7a37"
   dependencies:
     "@types/react" "*"
 
