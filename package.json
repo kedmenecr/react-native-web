@@ -31,6 +31,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@types/react-native": "0.55.4"
+    "@types/react-native": "0.61.21"
   }
 }
