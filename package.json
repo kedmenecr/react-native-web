@@ -13,7 +13,7 @@
     "react-native": "0.55.4",
     "react-native-web": "0.10.0",
     "react-scripts": "2.1.5",
-    "typescript": "3.3.3333"
+    "typescript": "3.9.3"
   },
   "scripts": {
     "start": "react-scripts start",
